@@ -1,5 +1,6 @@
 let timeline = JSON.parse(data);
 let even = true;
+
 timeline.forEach(element => {
     //create section in timeline (centered titles)
     createTimelineItem(element);

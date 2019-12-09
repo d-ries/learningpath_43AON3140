@@ -25,7 +25,7 @@ let data = `
           {
             "tag": "studiewijzer",
             "linkText":"Examenrichtlijnen",
-            "linkUrl": "https://blackboard.pxl.be/bbcswebdav/pid-357648-dt-content-rid-2573247_1/xid-2573247_1"
+            "linkUrl": "https://blackboard.pxl.be/bbcswebdav/pid-357648-dt-content-rid-3000744_1/xid-3000744_1"
           }
         ]
       },
