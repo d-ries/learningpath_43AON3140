@@ -433,7 +433,7 @@ let data = `
     "content": [
       {
         "section": "H12 NodeJS & Mongoose",
-        "description": "In dit hoofdstuk leer je werken ODM mapping via mongoose en MongoDB.",
+        "description": "In dit hoofdstuk leer je werken ODM mapping via de package mongoose en MongoDB binnen een Express applicatie in NodeJS.",
         "resources": [
           {
             "tag": "slides",
@@ -464,7 +464,7 @@ let data = `
     "content": [
       {
         "section": "H13 CSS Preprocessors",
-        "description": "In dit hoofdstuk leer je SaSs.",
+        "description": "In dit hoofdstuk leer je werken met CSS Preprocessors. We bekijken concreet het CSS framework SASS.",
         "resources": [
           {
             "tag": "slides",
@@ -477,6 +477,47 @@ let data = `
             "linkUrl": "https://app.pluralsight.com/library/courses/better-css"
           }
       ]
+      }
+    ]
+  },
+  {
+    "contact": "What's next?",
+    "content": [
+      {
+        "section": "Extra lesmateriaal",
+        "description": "Deze blok geeft een aantal linken indien je jezelf verder wil verdiepen in Angular. Onderstaande blokken maken geen deel uit van de leerstof voor het examen.",
+        "resources": [
+            {
+              "tag": "extern",
+              "linkText":"Reactive state management in Angular (NGRX)",
+              "linkUrl": "https://ngrx.io"
+            },
+            {
+              "tag": "extern",
+              "linkText": "Angular Material",
+              "linkUrl": "https://material.angular.io/"
+            },
+            {
+              "tag": "extern",
+              "linkText": "Unittesting in Angular met Jasmine",
+              "linkUrl": "https://angular.io/guide/testing"
+            },
+            {
+              "tag": "extern",
+              "linkText": "Token based auth with Passport.js in NodeJS",
+              "linkUrl": "http://www.passportjs.org/"
+            },
+            {
+              "tag": "pluralsight",
+              "linkText": "Unit testing in Angular (J. Eames)",
+              "linkUrl": "https://app.pluralsight.com/library/courses/unit-testing-angular"
+            },
+            {
+              "tag": "pluralsight",
+              "linkText": "Angular best practices (D. Wahlin)",
+              "linkUrl": "https://app.pluralsight.com/library/courses/angular-architecture-best-practices"
+            }
+        ]
       }
     ]
   }

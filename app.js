@@ -55,6 +55,7 @@ timeline.forEach(element => {
             //add hyperlink with resource
             let anchorElement = document.createElement('a');
             anchorElement.setAttribute('href', resource.linkUrl);
+            anchorElement.setAttribute('target', '_blank');
             node = document.createTextNode(resource.linkText);
             anchorElement.appendChild(node);
             //add hyperlink element to resource element (after tag)
