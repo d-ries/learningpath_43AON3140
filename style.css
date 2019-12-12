@@ -233,4 +233,18 @@
     .right {
     left: 0%;
     }
+
+    section.resource span {
+      display: inline-block;
+      font-size: 12px;
+      padding: 4px;
+      min-width: auto;
+      margin-right: 4px;
+
+    }
+
+    .content p{
+      display: none;
+    }
+
   }
