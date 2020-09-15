@@ -262,7 +262,7 @@ let data = `
             {
               "tag": "oefening",
               "linkText": "Opdrachten forms, Services & DI",
-              "linkUrl": "#"
+              "linkUrl": "https://classroom.github.com/a/jo1llQ4T"
             }
         ]
       }
