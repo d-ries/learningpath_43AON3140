@@ -91,6 +91,11 @@ let data = `
               "linkUrl": "https://drive.google.com/open?id=1Mjfla5cdTX-piD48OYIdOJFkXnqPZYcTQtbobfizvYE"
             },
             {
+              "tag": "voorbeeld",
+              "linkText":"Voorbeeld components",
+              "linkUrl": "https://github.com/3AON-WebExpert/CH3_Voorbeeld1"
+            },
+            {
               "tag": "pluralsight",
               "linkText": "Angular Components (J. Cooper)",
               "linkUrl": "https://app.pluralsight.com/course-player?clipId=c5bdc40d-4824-4b24-8a89-1070915128e5"
