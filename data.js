@@ -370,7 +370,7 @@ let data = `
             {
               "tag": "oefening",
               "linkText": "Oefeningenbundel Routing",
-              "linkUrl": "https://drive.google.com/open?id=1mGN8bVZBcVAappMckluMY-qJy686z6erfzCi8DeEpdY"
+              "linkUrl": "https://classroom.github.com/a/ldIKkI6u"
             }
         ]
       }
