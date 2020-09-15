@@ -92,7 +92,7 @@ let data = `
             },
             {
               "tag": "voorbeeld",
-              "linkText":"Voorbeeld components",
+              "linkText":"H3 Voorbeeld 1 - components",
               "linkUrl": "https://github.com/3AON-WebExpert/CH3_Voorbeeld1"
             },
             {
