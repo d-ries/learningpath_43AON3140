@@ -308,7 +308,7 @@ let data = `
             {
               "tag": "oefening",
               "linkText": "Opdrachten HTTP",
-              "linkUrl": "#"
+              "linkUrl": "https://classroom.github.com/a/mO2WzDSS"
             }
         ]
       }
