@@ -185,7 +185,7 @@ let data = `
             {
               "tag": "oefening",
               "linkText": "Opdrachten databinding & directives",
-              "linkUrl": "#"
+              "linkUrl": "https://classroom.github.com/a/_VomdMsb"
             },
             {
               "tag": "extern",
