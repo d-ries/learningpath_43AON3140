@@ -102,8 +102,8 @@ let data = `
             },
             {
               "tag": "oefening",
-              "linkText": "Oefeningenbundel Components",
-              "linkUrl": "https://drive.google.com/open?id=1JVc1PGeAQZhz1V5NAjl7-SggQ92ZDQsqfuKbx_yMrwA"
+              "linkText": "Opdrachten Components",
+              "linkUrl": "https://classroom.github.com/a/UCKLd3N4"
             },
             {
               "tag": "extern",
@@ -184,8 +184,8 @@ let data = `
             },
             {
               "tag": "oefening",
-              "linkText": "Oefeningenbundel directives",
-              "linkUrl": "https://docs.google.com/document/d/1lZa-BAMsS4-qIzU68fV4YqIjmoGjEK0zc61V9zuGvCA/edit?usp=sharing"
+              "linkText": "Opdrachten databinding & directives",
+              "linkUrl": "#"
             },
             {
               "tag": "extern",
@@ -261,8 +261,8 @@ let data = `
             },
             {
               "tag": "oefening",
-              "linkText": "Oefeningenbundel Services & DI",
-              "linkUrl": "https://docs.google.com/document/d/1iXvhW2fduIngS8HukCjjHbs2Rlc9lepxwC2tbELQoZU/edit?usp=sharing"
+              "linkText": "Opdrachten forms, Services & DI",
+              "linkUrl": "#"
             }
         ]
       }
@@ -302,8 +302,8 @@ let data = `
             },
             {
               "tag": "oefening",
-              "linkText": "Oefeningenbundel HTTP",
-              "linkUrl": "https://docs.google.com/document/d/1DQkereTKx96J0h9o7he2knmg8lJ2dqD2PlMCIpPVICU/edit?usp=sharing"
+              "linkText": "Opdrachten HTTP",
+              "linkUrl": "#"
             }
         ]
       }
